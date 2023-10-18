@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mniyastk
 - 👀 I’m interested in webdevolepment
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning react-redux
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me📧:niyas75tk@gmail.com
 
